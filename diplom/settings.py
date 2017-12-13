@@ -25,7 +25,7 @@ SECRET_KEY = '-v=!ynafy(*okrr=9i#64n#@&2&y+k5c0+qq48rfeb6a0p)v%*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['diplomshop.herokuapp.com', 'localhost', '127.0.0.1']
 
 
 # Application definition
